@@ -6,12 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-minimal_mistakes_skin    : "contrast"
 
 locale                   : "en-US"
 title                    : "Krirk Nirunwiroj"
 title_separator          : "-"
-name                     : "Krirk (Muang) Nirunwiroj"
+name                     : "Krirk Nirunwiroj"
 description              : "Personal website for Krirk Nirunwiroj"
 url                      : https://krirk-n.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
