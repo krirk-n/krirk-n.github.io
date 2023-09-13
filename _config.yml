@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Krirk Nirunwiroj"
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Currently a senior in Computer Science, Data Science, and Mathematics at UW-Madison"
   location         : "Madison, WI"
   employer         :
