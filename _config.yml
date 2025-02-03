@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Krirk Nirunwiroj"
   avatar           : "profile.jpg"
-  bio              : "A fourth-year undergraduate student in Computer Science, Data Science, and Mathematics at the University of Wisconsin-Madison"
-  location         : "Madison, WI"
+  bio              : "MSE in Computer Science (Human Language Technology Concentration) student at Johns Hopkins University"
+  location         : "Baltimore, MD"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=3hfXA30AAAAJ&hl=en"
-  email            : "nirunwiroj@wisc.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sQn2PiAAAAAJ"
+  email            : "knirunw1@jh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
